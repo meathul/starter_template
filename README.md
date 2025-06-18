@@ -1,4 +1,4 @@
-Perfect — here’s a fully **generalized, production-ready `README.md`** for a CrewAI starter template. No specific examples, just placeholders and instructions on *where* to customize.
+
 
 ---
 
