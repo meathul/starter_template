@@ -139,9 +139,4 @@ Add additional libraries as your project expands.
 
 Pull requests and feedback are welcome. Feel free to fork and customize this template for your own use.
 
-```
 
----
-
-Let me know if you want me to auto-generate all the matching placeholder `.py` files (`agent_setup.py`, `tool_name.py`, etc.) with blank class/function structures inside — I can provide the entire starter project as code too.
-```
