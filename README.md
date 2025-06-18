@@ -11,7 +11,7 @@ A general-purpose template for building multi-agent systems using [CrewAI](https
 
 ## 📁 Project Structure
 
-``
+
 
 crewai-starter/
 ├── agents/               # Define your agents here
